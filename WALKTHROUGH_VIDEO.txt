@@ -1,0 +1,9 @@
+Ajaia Collaborative Document Editor - Walkthrough Video Link
+
+URL: <Insert your Loom / YouTube / Drive video link here>
+
+Summary of key video demonstrations:
+1. Document creation and TipTap rich-text formatting (Bold, Italic, Underline, H1-H3, Lists).
+2. File import (.txt, .md, .docx) converting directly into editable documents.
+3. User Switcher demo (Alice sharing a document with Bob as 'Can Edit' and Charlie as 'View Only').
+4. Persistence verification across page reloads.
