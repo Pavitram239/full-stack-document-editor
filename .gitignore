@@ -1,0 +1,33 @@
+# Python & Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+backend/media/
+.env
+
+# Node & React / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating Systems & Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
